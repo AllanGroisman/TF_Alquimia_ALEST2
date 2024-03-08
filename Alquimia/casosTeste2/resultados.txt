@@ -1,0 +1,26 @@
+casoteste.txt
+Hidrogênios: 16272
+
+casoc40.txt
+Hidrogênios: 15192249
+
+casoc80.txt
+Hidrogênios: 27221484395
+
+casoc120.txt
+Hidrogênios: 2257966552765316
+
+casoc180.txt
+Hidrogênios: 1295127372563879647489923
+
+casoc240.txt
+Hidrogênios: 55577785066027869882239842
+
+casoc280.txt
+Hidrogênios: 25043936631358540492332040
+
+casoc320.txt
+Hidrogênios: 17986055867306301215241957896478
+
+casoc360.txt
+Hidrogênios: 235158674722512792129515898167093001156

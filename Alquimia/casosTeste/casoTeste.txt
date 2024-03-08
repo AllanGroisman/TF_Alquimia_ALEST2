@@ -1,0 +1,8 @@
+5 hidrogenio -> 1 A
+2 hidrogenio -> 1 B 
+3 hidrogenio -> 1 C
+2 A -> 1 B
+10 B -> 1 ouro
+2 C -> 1 B
+5 C -> 1 D
+2 D -> 1 ouro
